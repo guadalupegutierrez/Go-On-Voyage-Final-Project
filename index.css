@@ -1,0 +1,15 @@
+ul {
+	list-style-type: none;
+	overflow: hidden;
+
+}
+
+body {
+	background-image: url(goonvoyagebackground.PNG);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.options {
+	font: Telegraf;
+}
