@@ -1,15 +1,111 @@
+
 ul {
 	list-style-type: none;
+	background-color: #fff;
 	overflow: hidden;
 
+	
 }
+ul li{
+	float: left;
+	text-align: center;
+	width: 250px;
+	font-size: 20px; 
+ 
 
+
+
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding: 14px 15px;
+	color: #0775fa;
+
+
+	
+
+}
+ul li a:hover{
+	text-decoration: underline; 
+
+	
+}
 body {
 	background-image: url(goonvoyagebackground.PNG);
 	background-size: 100%;
 	background-repeat: no-repeat;
+
 }
 
-.options {
-	font: Telegraf;
+
+
+.momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
+h4{
+	color: #fcd526;
+	font-size: 50px;
+
+}
+
+h3{
+	color: #0775fa;
+	font-size: 70px;
+}
+
+.material-symbols-outlined {
+	font-size: 48pt;
+	color: #0775fa;
+}
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:  500;
+  font-style: normal;
+
+}
+
+.redText {
+	color: #fa2828;
+}
+
+.blueText {
+	color: #0775fa;
+}
+
+.fontSize1{
+	font-size: 25pt;
+}
+
+.fontSize2 {
+	font-size: 19pt;
+}
+
+.roundedImg{
+	border-radius: 150px;
+	border: 2px  solid;
+}
+
+
+.roundedImg2{
+	border-radius: 100px;
+	border: 2px  solid;
+}
+
+
+.yellowText {
+	color:  #fcd526;
+}
+
+.centerText { 
+	text-align: center;
+ }
+
+ .fontSize3 {
+ 	font-size: 40pt;
+ }
